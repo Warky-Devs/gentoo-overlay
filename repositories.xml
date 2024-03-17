@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>warkydevs</name>
+		<description lang="en">Warky Devs overlays containing patched ebuilds and new ebuilds</description>
+		<homepage>https://github.com/Warky-Devs/gentoo-overlay</homepage>
+		<owner type="person">
+			<email>warkysdevs@gmail.com</email>
+			<name>Hein Puth</name>
+		</owner>
+		<source type="git">https://github.com/Warky-Devs/gentoo-overlay.git</source>
+
+	</repo>
+</repositories>
